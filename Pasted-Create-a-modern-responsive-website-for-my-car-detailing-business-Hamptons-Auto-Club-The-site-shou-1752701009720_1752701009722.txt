@@ -1,0 +1,149 @@
+Create a modern, responsive website for my car detailing business: Hamptons Auto Club. The site should be sleek, upscale, and visually appealing with a luxury Hamptons vibe. Use a color palette of charcoal gray, black, white, and gold accents.
+
+🔗 GENERAL REQUIREMENTS:
+The site must be fully responsive and mobile-friendly.
+
+Use modern, clean fonts (like Poppins, Lato, or Montserrat).
+
+Feature my logo (attached PNG) at the top left of the navbar and in the footer.
+
+Use a hero section with a full-width background image of a luxury car (preferably a dark gray vehicle) and an overlaid heading.
+
+Include a “Book Now” button that links to a contact form or external scheduling platform.
+
+Add subtle animations or transitions for a premium feel.
+
+🧭 NAVBAR (sticky at top, scroll effect):
+Logo (left)
+
+Menu items (right-aligned):
+
+Home
+
+Packages
+
+About
+
+Contact
+
+🏠 HOME PAGE:
+Hero Section:
+
+Background: Image of a dark luxury car
+
+Overlay Text (centered):
+“Hamptons Auto Club”
+“Luxury Detailing. Delivered.”
+
+Button: [ Book Now ] – anchor to Contact section or booking form
+
+About Section:
+
+Heading: “About Us”
+
+Text:
+
+Hamptons Auto Club is the Hamptons’ go-to mobile detailing service, founded and operated by a local 16-year-old entrepreneur. We provide luxury-level interior and exterior detailing with exclusive club-style service, right at your driveway. We’re built on precision, hustle, and quality.
+
+💎 PACKAGES PAGE:
+Use three modern cards or sections for the pricing tiers, with icons and clean layout.
+
+1. Platinum Package – $100
+Premium maintenance detail. Estimated Time: 45–60 minutes
+
+Exterior hand wash & dry
+
+Wheel and tire cleaning + dressing
+
+Interior vacuum
+
+Interior wipe down
+
+Window cleaning
+
+Scent spray
+
+✅ Best for: Weekly maintenance or quick refresh.
+
+2. Gold Package – $150
+Full interior & exterior reconditioning. Estimated Time: 90–120 minutes
+
+Includes everything in Platinum, plus:
+
+Wax/sealant for deep gloss
+
+Interior shampoo or leather conditioning
+
+Door jambs cleaned
+
+Vents & cupholders detailed
+
+Stain removal
+
+Trim & tire shine boost
+
+✅ Best for: Monthly deep clean or pre-event prep.
+
+3. Diamond Package – $250
+Top-tier luxury detailing. Estimated Time: 2.5–3.5 hours
+
+Includes everything in Gold, plus:
+
+1-step paint polish
+
+Ceramic sealant (3–6 month protection)
+
+Engine bay cleaning
+
+Pet hair/stain removal
+
+Odor treatment
+
+Premium scent
+
+Free microfiber towel & decal
+
+✅ Best for: High-end cars, special occasions, or first-time full details.
+
+📞 CONTACT PAGE:
+Contact Info Section:
+
+Phone: 646-796-5433
+
+Email: hamptonsautoclub@gmail.com
+
+Instagram & TikTok: @hamptonsautoclub
+
+Website: hamptonsautoclub.com
+
+Add a line:
+
+“Contact us on our website or DM us on social media to book your appointment.”
+
+Contact Form:
+
+Name
+
+Email
+
+Phone
+
+Vehicle Type
+
+Preferred Package (dropdown: Platinum, Gold, Diamond)
+
+Preferred Date/Time
+
+Message
+
+📸 FOOTER:
+Logo again (smaller)
+
+Social icons for Instagram & TikTok
+
+Phone, email, and address if desired
+
+Copyright © 2025 Hamptons Auto Club
+
+📎 FILES:
+Make sure to embed the provided PNG logo into the header and footer, and use placeholder images for cars that match the vibe (or allow for easy replacement later).

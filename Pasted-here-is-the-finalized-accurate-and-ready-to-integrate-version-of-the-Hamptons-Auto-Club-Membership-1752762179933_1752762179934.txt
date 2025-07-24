@@ -1,0 +1,126 @@
+here is the finalized, accurate, and ready-to-integrate version of the Hamptons Auto Club Membership Program, now with your updated pricing:
+
+Weekly and monthly options for each tier
+
+Minimum 2-month commitment required
+
+Custom plans available by request
+
+This is written for use directly on your website or for handoff to Replit.
+
+🔱 Hamptons Auto Club Membership Program
+Consistent Care. Premium Discounts. VIP Access.
+
+💼 What is the Club?
+The Hamptons Auto Club Membership gives clients exclusive access to high-end car care on a recurring basis — either once a month or once a week — at a discounted rate.
+
+👉 Memberships require a minimum 2-month commitment
+👉 Choose monthly or weekly service
+👉 Want a custom plan? Reach out directly — we’ll tailor one for you
+
+💳 Membership Tiers & Pricing
+Display the following as pricing cards or comparison tables on the /memberships page:
+
+🔹 Platinum Member
+Frequency	Price
+Once a Month	$90/mo (save $10)
+Once a Week	$80/wk (save up to $80/month)
+
+Includes:
+
+Priority access to booking
+
+Discounted add-ons (pet hair, engine bay, etc.)
+
+$10 OFF Platinum service
+
+$15 OFF Gold
+
+$20 OFF Diamond
+
+Locked-in pricing for the duration of your membership
+
+🗓 Best for routine maintenance & seasonal refreshes
+
+🔸 Gold Member
+Frequency	Price
+Once a Month	$120/mo (save $30)
+Once a Week	$100/wk (save up to $100/month)
+
+Includes:
+
+48-hour guaranteed booking
+
+Free tire shine + premium scent upgrades
+
+$15 OFF Platinum
+
+$25 OFF Gold
+
+$35 OFF Diamond
+
+Locked-in pricing for full term
+
+🗓 Perfect for daily drivers or families
+
+💎 Diamond Member
+Frequency	Price
+Once a Month	$200/mo (save $50)
+Once a Week	$180/wk (save up to $180/month)
+
+Includes:
+
+First-priority scheduling
+
+Monthly pet hair + stain touch-up included
+
+Free microfiber towel + club decal
+
+$25 OFF Platinum
+
+$40 OFF Gold
+
+$60 OFF Diamond
+
+Locked-in VIP pricing during your membership
+
+🗓 Ideal for luxury cars, show vehicles, or perfectionists
+
+⚙️ Custom Plans
+Need something different (e.g. 2x/month or multiple cars)?
+
+📩 Email: hamptonsautoclub@gmail.com
+📞 Text or Call: 646-796-5433
+
+📜 Membership Terms
+All memberships require a 2-month minimum
+
+Billed monthly
+
+No cancellations during active term
+
+Missed appointments do not roll over
+
+Services are non-transferable
+
+📲 How to Join
+Create a form or modal with:
+
+Name
+
+Email
+
+Phone
+
+Vehicle Make/Model
+
+Membership Tier (dropdown: Platinum, Gold, Diamond)
+
+Frequency (dropdown: Monthly or Weekly)
+
+Start Date
+
+Checkbox: “I understand this is a 2-month minimum commitment”
+
+Payment Info
+
